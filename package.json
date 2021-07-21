@@ -7,12 +7,13 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "init": "npm install @andy-k-sparklight/hexo-theme-volantis && cp -R ./node_modules/@andy-k-sparklight/hexo-theme-volantis ./node_modules/hexo-theme-volantis"
+    "init": "cp -R ./node_modules/@andy-k-sparklight/hexo-theme-volantis ./node_modules/hexo-theme-volantis"
   },
   "hexo": {
     "version": "5.4.0"
   },
   "dependencies": {
+    "@andy-k-sparklight/hexo-theme-volantis": "^4.3.1-rc1",
     "hexo": "^5.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
