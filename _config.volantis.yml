@@ -20,9 +20,9 @@ info:
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+    img:
     icon:
-    title:
+    title: "<span style='font-family: Equestria;color: #5d2391'>Alicorn Launcher</span>"
   menu:
     - name: 首页
       icon: fas fa-home
