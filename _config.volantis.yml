@@ -30,6 +30,9 @@ navbar:
     - name: 时间线
       icon: fas fa-history
       url: archives/
+    - name: 开发逸闻
+      icon: fas fa-rss
+      url: dev-log/
   search: 在这里输入你要搜索的内容 # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
@@ -511,17 +514,17 @@ color_scheme:
     # 网站背景色
     site_bg: "#FFE0F0"
     # 网站背景上的文字
-    site_inner: "#fff"
+    site_inner: "#FFE0F0"
     # 网站页脚文字
-    site_footer: "#666"
+    site_footer: "#5D2391"
 
     # 卡片背景色
-    card: "#fff"
+    card: "alpha(#d796f0, 0.1)"
     # 卡片上的普通文字
-    text: "#444"
+    text: "#5D2391"
 
     # 区块和代码块背景色
-    block: "#f6f6f6"
+    block: "#FFE0F0"
     # 代码块高亮时的背景色
     codeblock: "#FFF7EA"
     # 行内代码颜色
