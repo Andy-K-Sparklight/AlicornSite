@@ -3,5 +3,9 @@
 }
 
 .highlight.pony .code:before {
-    content: "pony";
+  content: "pony";
+}
+
+#l_header #wrapper .m_search {
+  display: none;
 }

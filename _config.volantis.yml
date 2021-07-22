@@ -33,18 +33,18 @@ navbar:
     - name: 分类
       icon: fas fa-folder-open
       url: categories
-  search: 在这里输入你要搜索的内容 # Search bar placeholder
+  search: "" # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
 ############################### Cover ############################### > start
 cover:
-  height_scheme: full # full, half
+  height_scheme: half # full, half
   layout_scheme: dock # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
   display:
     home: true
-    archive: true
+    archive: false
     others: false # can be written in front-matter 'cover: true'
-  background: https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture
+  background: ""
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: "<span style='color:#5d2391'>Alicorn Launcher</span>"
@@ -109,7 +109,7 @@ article:
       # 版权声明组件 (for layout: post)
       copyright:
         enable: true
-        permalink: "本文永久链接是："
+        permalink: "本页面永久链接为："
         content:
           - permalink
       # ----------------
@@ -473,7 +473,7 @@ rightmenu:
 # To use hexo search, you need to install the following plugins:
 # npm i hexo-generator-search hexo-generator-json-content
 search:
-  enable: true
+  enable: false
   service: hexo # hexo, google, algolia, azure, baidu
   js:
   google:
