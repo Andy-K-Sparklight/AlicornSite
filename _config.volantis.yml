@@ -30,9 +30,9 @@ navbar:
     - name: 时间线
       icon: fas fa-history
       url: archives/
-    - name: 开发逸闻
-      icon: fas fa-rss
-      url: dev-log/
+    - name: 分类
+      icon: fas fa-folder-open
+      url: categories
   search: 在这里输入你要搜索的内容 # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
@@ -185,7 +185,7 @@ comments:
 ############################### Sidebar ############################### > start
 sidebar:
   # 主页、分类、归档等独立页面
-  for_page: []
+  for_page: [category]
   # layout: docs/post 这类文章页面
   for_post: [toc]
   # 侧边栏组件库
@@ -204,7 +204,7 @@ sidebar:
     # category widget
     category:
       class: category
-      display: [] # [desktop, mobile]
+      display: [desktop] # [desktop, mobile]
       header:
         icon: fas fa-folder-open
         title: 文章分类

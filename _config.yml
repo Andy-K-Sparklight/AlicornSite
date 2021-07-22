@@ -105,3 +105,5 @@ deploy:
   type: ""
 
 markdown: "gfm"
+
+favicon: "alicorn.png"

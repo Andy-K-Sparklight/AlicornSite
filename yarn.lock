@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@andy-k-sparklight/hexo-theme-volantis@^4.3.1-rc2":
-  "integrity" "sha512-Ri/oQ754BdMsXm4tB0XjOyABAneHtyKejAZzw8ZjJtrYDHbSWlHt/Le7Ajv0Rw19omT16SvqoGVHuEwnaaCxdg=="
-  "resolved" "https://npm.pkg.github.com/download/@andy-k-sparklight/hexo-theme-volantis/4.3.1-rc2/ec389a62d1b863cd990f99290679815993b638ff6e98c50a9d05cfe7f4dd8d9a"
-  "version" "4.3.1-rc2"
+"@andy-k-sparklight/hexo-theme-volantis@^4.3.1-rc3":
+  "integrity" "sha512-MItteY2LwwU81Av7tkFTpm3hO9JfizvphyL/bMizYq+u6dAhXCU+JNmm2y/XelrlkpouC1tPpr9eoFHmjqDQIg=="
+  "resolved" "https://npm.pkg.github.com/download/@andy-k-sparklight/hexo-theme-volantis/4.3.1-rc3/fae1ac357d24ed316b65b11d624d2153effee4ef76683290de9944101a53c688"
+  "version" "4.3.1-rc3"
 
 "a-sync-waterfall@^1.0.0":
   "integrity" "sha512-RYTOHHdWipFUliRFMCS4X2Yn2X8M87V/OpSqWzKKOGhzqyUxzyVmhHDH9sAvG+ZuQf/TAOFsLCpMw09I1ufUnA=="
