@@ -499,7 +499,7 @@ color_scheme:
     # 主题色
     theme: "#DF307F"
     # 链接色
-    link: "#5D2391"
+    link: "#E34F92"
     # 按钮色
     button: "#E972A7"
     # 鼠标放到交互元素上时的色
@@ -519,16 +519,16 @@ color_scheme:
     site_footer: "#5D2391"
 
     # 卡片背景色
-    card: "alpha(#d796f0, 0.1)"
+    card: "alpha(#ffe0f0, 0.1)"
     # 卡片上的普通文字
     text: "#5D2391"
 
     # 区块和代码块背景色
     block: "#FFE0F0"
     # 代码块高亮时的背景色
-    codeblock: "#FFF7EA"
+    codeblock: "#FFE0F0"
     # 行内代码颜色
-    inlinecode: "#5D2391"
+    inlinecode: "#DF307F"
 
     # 文章部分
     h1: "#4A1C73"

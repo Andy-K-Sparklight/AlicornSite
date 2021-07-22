@@ -1,3 +1,7 @@
 #l_header {
   background: rgba(215,150,240,0.1) !important
 }
+
+.highlight.pony .code:before {
+    content: "pony";
+}
