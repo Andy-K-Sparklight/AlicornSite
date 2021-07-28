@@ -33,6 +33,9 @@ navbar:
     - name: 分类
       icon: fas fa-folder-open
       url: categories
+    - name: 加入我们
+      icon: fas fa-user-plus
+      url: get-involved
   search: "" # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
@@ -81,7 +84,7 @@ article:
   body:
     # 文章顶部信息
     # 从 meta_library 中取
-    top_meta: [author, date] #启用评论数量需在此添加
+    top_meta: [] #启用评论数量需在此添加
     # ----------------
     # 文章页脚组件
     footer_widget:
@@ -122,56 +125,11 @@ article:
     bottom_meta: []
     # meta library
     meta_library:
-      # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
-      # https://volantis.js.org/advanced-settings/#多人协同
-      author:
-        avatar: https://attachment.mcbbs.net/uc_server/data/avatar/003/28/10/25_avatar_big.jpg
-        name: Andy K Rarity Sparklight
-        url: /
-      # 文章创建日期
-      date:
-        icon: fas fa-calendar-alt
-        title: "发布于："
-        format: "ll" # 日期格式 http://momentjs.com/docs/
-      # 文章更新日期
-      updated:
-        icon: fas fa-edit
-        title: "更新于："
-        format: "ll" # 日期格式 http://momentjs.com/docs/
-      # 文章分类
-      category:
-        icon: fas fa-folder-open
-      # 文章浏览计数
-      counter:
-        icon: fas fa-eye
-        unit: "次浏览"
-      # 文章评论数量：支持 valine和waline
-      valinecount:
-        icon: fas fa-comment-dots
-        desc: "" # 条评论
-      walinecount:
-        icon: fas fa-comment-dots
-        desc: "" # 条评论
-      # 文章字数和阅读时长
-      wordcount:
-        icon_wordcount: fas fa-keyboard
-        icon_duration: fas fa-hourglass-half
-      # 文章标签
       tags:
         icon: fas fa-hashtag
       # 分享
       share:
         []
-        # - id: qq
-        #   img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qq.png
-        # - id: qzone
-        #   img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qzone.png
-        # - id: weibo
-        #   img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/weibo.png
-        # - id: # qrcode # 当id为qrcode时需要安装插件  npm i hexo-helper-qrcode
-        #   img: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/wechat.png
-        # - id: # telegram
-        #   img: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
 ############################### Article Layout ############################### > end
 
 ############################### Comments ############################### > start
