@@ -27,4 +27,4 @@ Alicorn 需要自主的 Mod 注册表，帐户与邮件服务，单独的域名�
 
 ### 使用自由软件
 
-Alicorn Launcher 的开发离不开许多自由软件，如 [VSCodium](https://vscodium.com)、[Material UI](https://material-ui.com)、[Node.js](https://nodejs.org)、[IntelliJ IDEA Community]
+Alicorn Launcher 的开发离不开许多自由软件，如 [VSCodium](https://vscodium.com)、[Material UI](https://material-ui.com)、[Node.js](https://nodejs.org)、[elementary OS](https://elementary.io)。请在你力所能及的范围内，尽量使用自由软件，测试表明，Alicorn 在 elementary OS 上的响应速度达到了 Windows 上的近 1.5 倍，因此，使用自由软件——特别是在你有选择的时候。这既有利于你，也有利于世界。
