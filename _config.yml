@@ -102,7 +102,9 @@ theme: volantis
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ""
+  type: git
+  repo: https://github.com/Andy-K-Sparklight/AlicornSiteMirror.git
+  branch: main
 
 markdown: "gfm"
 
