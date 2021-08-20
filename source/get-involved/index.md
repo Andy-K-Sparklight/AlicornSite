@@ -3,8 +3,6 @@ title: 加入 Alicorn
 date: 2021-07-25 22:58:28
 ---
 
-Alicorn Launcher 目前是 Andy K Rarity Sparklight（我）的 Hobby 项目，但在可预见的将来，Alicorn Launcher 很可能将移交到一个目前尚未建立的组织，以便于相关组件的开发和维护。如果你有这方面的想法，欢迎 [联系我](mailto:thatrarityeg@hotmail.com)。
-
 ## Alicorn 需要什么
 
 ### 协同开发

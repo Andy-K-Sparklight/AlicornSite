@@ -22,7 +22,7 @@ navbar:
   logo: # choose [img] or [icon + title]
     img:
     icon:
-    title: "<span style='font-family: Equestria;color: #5d2391'>Alicorn Launcher</span>"
+    title: "<span style='font-family: Equestria;color: #5d2391'>Alicorn Launcher Online</span>"
   menu:
     - name: 首页
       icon: fas fa-home
@@ -59,8 +59,8 @@ cover:
   background: ""
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
-  title: "<span style='color:#5d2391'>Alicorn Launcher</span>"
-  subtitle: "<span style='color:#5d2391'>并不是什么官方网站</span>"
+  title: "<span style='color:#5d2391'>Alicorn Launcher Online</span>"
+  subtitle: "<span style='color:#5d2391'>Alicorn 在线 - 并不是什么官方网站</span>"
   search: "" # search bar placeholder
   features: []
 

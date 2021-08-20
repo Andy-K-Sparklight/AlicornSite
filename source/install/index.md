@@ -45,9 +45,9 @@ date: 2021-08-17 15:53:42
 
 3. 进入解压后的目录，运行 Alicorn：
    
-   - Windows：双击 Alicorn.exe 即可启动 Alicorn。
+   - Windows：双击 `Alicorn.exe` 即可启动 Alicorn。
    
-   - GNU/Linux：用你喜欢的方式运行 alicorn.sh，或者直接运行 Alicorn 可执行文件。
+   - GNU/Linux：用你喜欢的方式运行 `alicorn.sh`，或者直接运行 `Alicorn` 可执行文件。
    
    这个方法不需要准备资源，因此若没有问题，Alicorn 会在几秒钟后启动。
    
