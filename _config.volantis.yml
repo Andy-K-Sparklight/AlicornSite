@@ -614,7 +614,7 @@ custom_css:
     logofont:
       fontfamily: '"Equestria", "Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
       name: "Equestria"
-      url: /Equestria.ttf
+      url: https://cdn.jsdelivr.net/gh/Andy-K-Sparklight/AlicornSite/source/Equestria.ttf
       weight: normal
       style: normal
     bodyfont:
