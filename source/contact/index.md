@@ -7,7 +7,7 @@ date: 2021-08-17 15:53:34
 
 ## Discord
 
-Alicorn Launcher 的 Discord 服务器在此可用：[使用邀请链接](https://discord.gg/U65qPAt8GW)
+Alicorn Launcher 的 Discord 服务器在此可用：[使用邀请链接](https://discord.gg/csGgQgXhZk)
 
 在此 Discord 服务器上，你可以通过对应的频道提交反馈、寻求帮助~~或是和其他成员聊天~~。
 
