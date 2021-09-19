@@ -4,7 +4,7 @@ date: 2021-08-18 16:00:19
 categories:
   - 发行版
   - 普通发行版
-pin: true
+pin: false
 ---
 
 Crystal 已经到来，更多功能，界面优化，立刻获取。
@@ -35,4 +35,4 @@ Crystal 是在 Electron 13.2.1 上构建的。
 
 Crystal 是**普通发行版**，这意味着当下一版本的 Alicorn 发行时，Crystal 的支持同步终止。
 
-AppleSauce 现在已经发布，Crystal 的支持于 2020/09/18 正式停止。
+AppleSauce 现在已经发布，Crystal 的支持于 2020/09/18 正式停止，任何有关 Crystal（Core 17 及以下）的问题和漏洞都不将被受理。
