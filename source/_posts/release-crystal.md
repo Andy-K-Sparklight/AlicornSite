@@ -35,4 +35,4 @@ Crystal 是在 Electron 13.2.1 上构建的。
 
 Crystal 是**普通发行版**，这意味着当下一版本的 Alicorn 发行时，Crystal 的支持同步终止。
 
-现在 Crystal 仍然受到支持，你可以反馈问题或寻求帮助。
+AppleSauce 现在已经发布，Crystal 的支持于 2020/09/18 正式停止。
