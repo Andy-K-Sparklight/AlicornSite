@@ -6,7 +6,7 @@ date: 2021-08-17 15:53:42
 ## 安装或重新安装
 
 1. 从以下的地址，获取 Alicorn 归档：
-- 国内加速链接：[Windows 64 位](https://alicorn-go.vercel.app/latest-win32-release) [GNU/Linux 64 位](https://alicorn-go.vercel.app/latest-gnu-release)
+- 
 
 - FastGit 镜像（推荐）：[Windows 64 位](https://endpoint.fastgit.org/https://github.com/Andy-K-Sparklight/AlicornBinaries/releases/download/latest/Alicorn-win32-x64.zip) [Windows 32 位](https://endpoint.fastgit.org/https://github.com/Andy-K-Sparklight/AlicornBinaries/releases/download/latest/Alicorn-win32-ia32.zip) [GNU/Linux 64 位](https://endpoint.fastgit.org/https://github.com/Andy-K-Sparklight/AlicornBinaries/releases/download/latest/Alicorn-linux-x64.tar.gz)
 
