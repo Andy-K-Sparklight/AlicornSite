@@ -1,0 +1,16 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://alc.pages.dev"
+    },
+    {
+      "source": "/index.html",
+      "destination": "https://alc.pages.dev"
+    },
+    {
+      "source": "/index",
+      "destination": "https://alc.pages.dev"
+    }
+  ]
+}
